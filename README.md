@@ -17,6 +17,7 @@
     <img align="center" height="30" width="40" alt="Gisse-Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
     <img align="center" height="30" width="40" alt="Gisse-Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
     <img align="right" height="180px" alt="Gise-yoda" src="https://user-images.githubusercontent.com/103209971/196929944-37c63c4b-e03e-4512-9ce0-21ab452a2786.png">
+    <br><br>
 </div>
 
 ##
@@ -26,6 +27,4 @@
     <a href="http://linkedin.com/giselacolmeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
 </div>
     
-<div>  
 ![snake animation](https://github.com/gissestephy/gissestephy/blob/output/github-contribution-grid-snake.gif)
-</div>
