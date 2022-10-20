@@ -24,7 +24,6 @@
 <div>
     <a href="mailto:gisela.s.colmeiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="http://linkedin.com/giselacolmeiro" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+</div>
 
     ![snake animation](https://github.com/gissestephy/gissestephy/blob/output/github-contribution-grid-snake.gif)
-
-</div>
