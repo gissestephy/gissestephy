@@ -1,4 +1,4 @@
-## Hiii!!! Soy Gisela Colmeiro, creadora de contenidos de programación y diseñadora de sitios web
+## Hiii!!! Soy Gisela Colmeiro, Programadora y diseñadora de sitios web
 
 <div>
     <a href="https://github.com/gissestephy"></a>
