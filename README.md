@@ -1,4 +1,4 @@
-## Hi!!! Soy Gisela Colmeiro, Programadora, diseñadora de sitios web, Testing y actualmente me desempeño como Analista de Datos
+## Hi!!! Soy Gisela Colmeiro
 
 <div>
     <a href="https://github.com/gissestephy"></a>
