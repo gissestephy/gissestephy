@@ -1,4 +1,4 @@
-## Hi!!! Soy Gisela Colmeiro
+## Hi!!! I'm Gisela!
 
 <div>
     <a href="https://github.com/gissestephy"></a>
