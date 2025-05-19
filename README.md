@@ -7,7 +7,7 @@
         Apasionada por la tecnología, la creatividad y el aprendizaje continuo. Me encanta crear, desarrollar y diseñar aplicaciones y sitios web. Me considero una persona curiosa y explorativa por eso siempre trato de estar a la vanguardia de las últimas tecnologías y las más demandas del mercado, además, soy una persona análitica por lo que me desempeño bien testeando y descubriendo bugs. Soy una persona creativa, curiosa y exploradora, lo que me lleva a estar siempre actualizada con las tecnologías más demandadas del mercado. Disfruto trabajar con herramientas como Figma para plasmar ideas visuales de forma efectiva y atractiva. Además, me considero analítica y detallista, lo que me permite detectar errores con facilidad y desempeñarme muy bien en tareas de testing y control de calidad. ¡Nada se me escapa! 🐞🔍 
 </br>
 </br>
-        En mis tiempos libres me divierte diseñar especialmente utilizando la herramienta Figma y desde pequeña disfruto mirar las carreras de Formula 1🏁🏎️
+        En mis tiempos libres me divierte diseñar especialmente utilizando la herramienta Figma y desde pequeña disfruto mirar las carreras de Formula 1. 🏁🏎️
     </p>
 </div>
 
