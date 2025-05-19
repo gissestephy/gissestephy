@@ -10,11 +10,7 @@
     </p>
 </div>
 
-<div>
-    <a href="https://github.com/gissestephy"></a>
-    <img height="180px" src="http://github-readme-stats.vercel.app/api/top-langs/?username=gissestephy&layout=compact&theme=dracula&langs_count=16"/>
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
     <img align="center" height="30" width="40" alt="Gisse-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" > 
     <img align="center" height="30" width="40" alt="Gisse-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > 
     <img align="center" height="30" width="40" alt="Gisse-B" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
