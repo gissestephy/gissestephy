@@ -19,7 +19,6 @@
         <img align="center" height="30" width="40" alt="Gisse-JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >  
         <img align="center" height="30" width="40" alt="Gisse-Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" >
         <img align="center" height="30" width="40" alt="Gisse-Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-        <img align="center" height="30" width="40" alt="Gisse-Adobe" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
         <img align="center" height="30" width="40" alt="Gisse-Csharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
         <img align="center" height="30" width="40" alt="Gisse-PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" >
         <img align="center" height="30" width="40" alt="Gisse-React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" >
