@@ -11,7 +11,7 @@
     </p>
 </div>
 
-<div style="display: inline_block"><br>
+<div align= "center"><br>
     <p align="center">
         <img align="center" height="30" width="40" alt="Gisse-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" > 
         <img align="center" height="30" width="40" alt="Gisse-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > 
