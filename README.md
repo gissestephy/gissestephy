@@ -12,7 +12,6 @@
 </div>
 
 <div align= "center"><br>
-    <p align="center">
         <img align="center" height="30" width="40" alt="Gisse-HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" > 
         <img align="center" height="30" width="40" alt="Gisse-CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" > 
         <img align="center" height="30" width="40" alt="Gisse-B" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" >
@@ -27,7 +26,6 @@
         <img align="center" height="30" width="40" alt="Gisse-Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" >
         <img align="center" height="30" width="40" alt="Gisse-Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" >
         <img align="right" height="180px" alt="Gise-yoda" src="https://user-images.githubusercontent.com/103209971/196929944-37c63c4b-e03e-4512-9ce0-21ab452a2786.png">
-    </p>
 </div>
 
 <div>
